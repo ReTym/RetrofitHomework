@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity implements Observer<List<Use
         users = new ArrayList<>();
 
         usersList = findViewById(R.id.rv_users);
-        btnUpdate = findViewById(R.id.btn_update);
+        btnUpdate = findViewById(R.id.btn_update_user);
 
         btnUpdate.setOnClickListener(OnUpdateClickListener);
 

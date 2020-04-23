@@ -28,7 +28,7 @@
         android:orientation="horizontal">
 
         <Button
-            android:id="@+id/btn_update"
+            android:id="@+id/btn_update_user"
             android:layout_width="36dp"
             android:layout_height="36dp"
             android:layout_margin="18dp"
