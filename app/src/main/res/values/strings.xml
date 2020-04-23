@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RetrofitHomework1</string>
+    <string name="site_name">JSONPlaceholder</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+    <string name="update">Update</string>
+</resources>
